@@ -17,12 +17,12 @@ O objetivo deste projeto é explorar as características do dataset House Prices
 
 O projeto está disponível no arquivo EDA_housing.ipynb e foi dividido em etapas:
 
-Entendimento dos dados: nessa fase, foram realizados processos para compreender melhor o conjunto de dados. Foi criado um mapa para visualização das latitudes e longitudes.
-Tratamento de valores: nesta fase, foram tratados valores nulos, duplicados e outliers, utilizando a técnica do IQR.
-Análise exploratória: nesta fase, foram criadas hipóteses para o projeto e foi realizada uma análise mais detalhada das características das casas.
-Entendendo a importância das features: nessa fase, foi avaliada a importância de cada feature para o modelo de regressão.
-Aplicando regressão linear: utilizando as técnicas de Machine Learning, foi aplicada a regressão linear para projetar os preços de casas futuras.
-Métricas de avaliação do projeto: foram utilizadas diversas métricas, como o coeficiente de determinação (R²), o Mean Squared Error (MSE) e o Root Mean Squared Error (RMSE), para avaliar a eficácia do modelo de regressão.
+- Entendimento dos dados: nessa fase, foram realizados processos para compreender melhor o conjunto de dados. Foi criado um mapa para visualização das latitudes e longitudes.
+- Tratamento de valores: nesta fase, foram tratados valores nulos, duplicados e outliers, utilizando a técnica do IQR.
+- Análise exploratória: nesta fase, foram criadas hipóteses para o projeto e foi realizada uma análise mais detalhada das características das casas.
+- Entendendo a importância das features: nessa fase, foi avaliada a importância de cada feature para o modelo de regressão.
+- Aplicando regressão linear: utilizando as técnicas de Machine Learning, foi aplicada a regressão linear para projetar os preços de casas futuras.
+- Métricas de avaliação do projeto: foram utilizadas diversas métricas, como o coeficiente de determinação (R²), o Mean Squared Error (MSE) e o Root Mean Squared Error (RMSE), para avaliar a eficácia do modelo de regressão.
 
 ## Bibliotecas
 
